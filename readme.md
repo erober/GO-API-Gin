@@ -1,4 +1,4 @@
-Here I have build a basic crud api using gin framework in GO
+Here I have built a basic crud api using gin framework in GO
 
 The goal here is to understand basics of APIs when working with go.
 
